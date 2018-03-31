@@ -1,0 +1,8 @@
+CSV com os dados do usuário de acesso às páginas:
+https://raw.githubusercontent.com/alura-cursos/machine-learning-introducao-a-classificacao/master/acesso_pagina.csv
+
+Planilha com os dados que serão usados neste curso. 
+http://bit.ly/alura_analise_entrada
+
+Todo o código que será desenvolvido neste curso no github a seguir: 
+https://github.com/alura-cursos/machine-learning-introducao-a-classificacao
