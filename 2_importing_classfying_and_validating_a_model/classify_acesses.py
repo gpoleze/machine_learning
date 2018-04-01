@@ -1,7 +1,7 @@
-from data import load_data
+from functions.load_data_from_file import read_csv
 from sklearn.naive_bayes import MultinomialNB
 
-X, Y = load_data("acesso_pagina.csv")
+X, Y = read_csv("2_importing_classfying_and_validating_a_model/acesso_pagina.csv")
 
 training_x = [X[index] for index in range(90)]
 training_y = [Y[index] for index in range(90)]
